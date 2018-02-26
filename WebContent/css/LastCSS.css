@@ -1,0 +1,148 @@
+
+body
+{ 
+	background-attachment: fixed !important;
+font-family:sans serif;	
+height: 100%;
+width:100%;
+margin:0;padding:0;
+}
+
+#container
+{
+	height: 1100px;
+	width: 1349px;
+	margin: 0 auto;
+}
+
+#header
+{ 
+/*background-image:url(img/blackf.gif);*/
+  height: 60px;
+  width:100%;
+  margin-top:0px;
+  position: fixed;
+   z-index:999;
+    top: 0;
+	right:0;
+	left:0;
+  margin:0 auto;
+  -webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+}
+#subheader
+{
+	height: 22px;
+	  width:100%;
+	
+	
+	position: fixed;
+   z-index:999;
+    top: 60px;
+	right:0;
+	left:0;
+	
+	-webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+}
+#subheaderbookpic
+{
+	padding-top:0px;
+	float:left;
+	margin-bottom:4px;
+   margin-left:668px;
+}
+#subheadercontaint
+{
+	width: 1349px;
+	height: 22px;
+	margin: 0 auto;
+}
+#headercontaint
+{
+	width: 1349px;
+	height: 60px;
+	margin: 0 auto;
+}
+#logo
+{ 
+  width: 55px;
+  position: relative;
+  height: 55px;
+  margin-left:455px;
+  float: left;
+  border: solid;
+}
+.userpic{
+	height: 30px;
+	width: 30px;
+	margin-left: 60px;
+	float: left;
+	margin-top: 15px;
+	position:relative;
+	-webkit-box-shadow: -1px 3px 11px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 3px 11px 0px rgba(0,0,0,0.75);
+box-shadow: -1px 3px 11px 0px rgba(0,0,0,0.75);
+}
+
+.username{
+	height: 30px;
+	width: 100px;
+	margin-left: 5px;
+	float: left;
+	margin-top: 21px;
+	font-family: sans-serif;
+}
+
+
+#mid
+{	
+/*	background-color:#F5F5F5; */
+    background-image:url(../images/wooden.jpg);
+	margin-top: 100px;
+	margin-bottom:2px;
+	height: 100%;
+	width: 1340px;
+	
+}
+#midcontaint
+{
+	height: auto;
+	width: auto;
+	margin: 0 auto;
+}
+#midleft
+{
+	height: 500px;
+	width: 200px;
+	float: left;
+	border: solid;
+	margin-left: 30px;
+}
+#midmid
+{
+	margin-left:10px;
+	height: 900px;
+	width: 820px;
+	float: left;
+}
+#midright
+{
+	margin-left:10px;
+	height: 500px;
+	width: 219px;
+	float: left;
+	border: solid;
+}
+#footer
+{
+	height: 60px;
+	width:100%;
+	margin:0 auto;
+	float:left;
+	position: relative;
+}
+
+

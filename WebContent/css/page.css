@@ -1,0 +1,39 @@
+
+/*  install page css  */
+
+.content{
+	background:#fff;
+	min-width:250px;
+	color:#303030;
+	font-weight:300;
+	border-radius:5px;
+}
+
+h1{
+	letter-spacing: -0.025em;
+	margin:0 0 0 0;
+	font-size:5em;	
+	line-height:48px;
+	font-weight:300;
+}
+
+h3{
+	color:#888;
+	font-weight:300;
+	font-size:2em;
+	letter-spacing: -0.015em;	
+}
+
+h4{
+	font-size:24px;
+	margin: 30px 0 10px 0;
+	letter-spacing: -0.015em;	
+}
+
+h5{
+	font-size:20px;
+	margin-bottom:5px;	
+}
+
+
+
