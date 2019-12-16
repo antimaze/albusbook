@@ -10,4 +10,4 @@ It has following functionality
 - User can post a message, followers can see those message, can like post as well
 - User can write their private diary
 - User can search their friends and other people by their name or id
-- "People you may know" will suggest Users their friends of friends whom they can follow
+- "People you may know" suggest Users their friends of friends whom they can follow
